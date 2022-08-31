@@ -1,0 +1,962 @@
+<< Learn Mode: statistical >>
+<< Change Limit set to 750 >>
+Color0: Color(h: 189, s: 100, l: 59)
+Color1: Color(h: 211, s: 100, l: 33)
+Target Index: 0
+Input: türkis
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 6.642031515509086
+---
+Color0: Color(h: 22, s: 100, l: 42)
+Color1: Color(h: 12, s: 100, l: 49)
+Target Index: 0
+Input: braun
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 8.718041003407457
+---
+Color0: Color(h: 263, s: 100, l: 46)
+Color1: Color(h: 239, s: 100, l: 33)
+Target Index: 0
+Input: blau
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 13.887505048641984
+---
+Color0: Color(h: 54, s: 100, l: 60)
+Color1: Color(h: 72, s: 100, l: 34)
+Target Index: 1
+Input: grün
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 23.49603817947513
+---
+Color0: Color(h: 303, s: 100, l: 30)
+Color1: Color(h: 314, s: 100, l: 45)
+Target Index: 0
+Input: lila
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 11.677553153250678
+---
+Color0: Color(h: 336, s: 100, l: 43)
+Color1: Color(h: 312, s: 100, l: 43)
+Target Index: 1
+Input: pink
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 5.953015873115914
+---
+Color0: Color(h: 248, s: 100, l: 44)
+Color1: Color(h: 226, s: 100, l: 50)
+Target Index: 0
+Input: indigo
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 18.095531767836935
+---
+Color0: Color(h: 325, s: 100, l: 42)
+Color1: Color(h: 305, s: 100, l: 33)
+Target Index: 1
+Input: lila
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 10.683291069686508
+---
+Color0: Color(h: 66, s: 100, l: 56)
+Color1: Color(h: 82, s: 100, l: 57)
+Target Index: 0
+Input: gelb
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 5.631770805574727
+---
+Color0: Color(h: 40, s: 100, l: 56)
+Color1: Color(h: 16, s: 100, l: 40)
+Target Index: 0
+Input: gelb
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 11.480769620760338
+---
+Color0: Color(h: 13, s: 100, l: 55)
+Color1: Color(h: 350, s: 100, l: 49)
+Target Index: 0
+Input: orange
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 9.68314787765433
+---
+Color0: Color(h: 78, s: 100, l: 37)
+Color1: Color(h: 56, s: 100, l: 32)
+Target Index: 0
+Input: grün
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 17.351798511452387
+---
+Color0: Color(h: 35, s: 100, l: 41)
+Color1: Color(h: 51, s: 100, l: 36)
+Target Index: 0
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 5.592639868908513
+---
+Color0: Color(h: 311, s: 100, l: 48)
+Color1: Color(h: 317, s: 100, l: 33)
+Target Index: 1
+Input: lila
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 17.039849963931335
+---
+Color0: Color(h: 212, s: 100, l: 37)
+Color1: Color(h: 248, s: 100, l: 38)
+Target Index: 1
+Input: marinblau
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 7.545368812838897
+---
+Color0: Color(h: 251, s: 100, l: 49)
+Color1: Color(h: 216, s: 100, l: 56)
+Target Index: 0
+Input: indigo
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 16.177837414008657
+---
+Color0: Color(h: 0, s: 100, l: 49)
+Color1: Color(h: 327, s: 100, l: 54)
+Target Index: 0
+Input: orange
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 19.62519409471456
+---
+Color0: Color(h: 352, s: 100, l: 45)
+Color1: Color(h: 328, s: 100, l: 55)
+Target Index: 0
+Input: rot
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 6.286561233918806
+---
+Color0: Color(h: 43, s: 100, l: 55)
+Color1: Color(h: 19, s: 100, l: 58)
+Target Index: 0
+Input: gelb
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 8.206238156028894
+---
+Color0: Color(h: 101, s: 100, l: 53)
+Color1: Color(h: 53, s: 100, l: 56)
+Target Index: 0
+Input: grün
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 9.065078917318129
+---
+Color0: Color(h: 167, s: 100, l: 33)
+Color1: Color(h: 143, s: 100, l: 52)
+Target Index: 1
+Input: blattgrün
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 14.769707597632937
+---
+Color0: Color(h: 223, s: 100, l: 60)
+Color1: Color(h: 262, s: 100, l: 51)
+Target Index: 1
+Input: marinblau
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 15.646709833779479
+---
+Color0: Color(h: 36, s: 100, l: 35)
+Color1: Color(h: 54, s: 100, l: 36)
+Target Index: 0
+Input: braun
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 5.137269840357936
+---
+Color0: Color(h: 264, s: 100, l: 35)
+Color1: Color(h: 285, s: 100, l: 33)
+Target Index: 1
+Input: lila
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 6.122369904179243
+---
+Color0: Color(h: 335, s: 100, l: 52)
+Color1: Color(h: 359, s: 100, l: 37)
+Target Index: 0
+Input: pink
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 7.569414921369349
+---
+Color0: Color(h: 119, s: 100, l: 59)
+Color1: Color(h: 143, s: 100, l: 57)
+Target Index: 0
+Input: grün
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 8.24554806876328
+---
+Color0: Color(h: 359, s: 100, l: 55)
+Color1: Color(h: 335, s: 100, l: 31)
+Target Index: 1
+Input: bordeaux
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 6.586117670974966
+---
+Color0: Color(h: 350, s: 100, l: 38)
+Color1: Color(h: 14, s: 100, l: 40)
+Target Index: 0
+Input: bordeaux
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 6.290011595627665
+---
+Color0: Color(h: 185, s: 100, l: 60)
+Color1: Color(h: 136, s: 100, l: 32)
+Target Index: 1
+Input: grün
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 11.032411283956577
+---
+Color0: Color(h: 49, s: 100, l: 33)
+Color1: Color(h: 65, s: 100, l: 42)
+Target Index: 0
+Input: olive
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 6.93938898354902
+---
+Color0: Color(h: 46, s: 100, l: 38)
+Color1: Color(h: 28, s: 100, l: 52)
+Target Index: 1
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 4.759650365131315
+---
+Color0: Color(h: 41, s: 100, l: 32)
+Color1: Color(h: 30, s: 100, l: 58)
+Target Index: 1
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 4.692488338110331
+---
+Color0: Color(h: 250, s: 100, l: 30)
+Color1: Color(h: 284, s: 100, l: 58)
+Target Index: 1
+Input: pink
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 18.605726913221407
+---
+Color0: Color(h: 0, s: 100, l: 41)
+Color1: Color(h: 23, s: 100, l: 51)
+Target Index: 1
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 4.428830235895107
+---
+Color0: Color(h: 273, s: 100, l: 55)
+Color1: Color(h: 249, s: 100, l: 52)
+Target Index: 0
+Input: lila
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 6.039155215031374
+---
+Color0: Color(h: 26, s: 100, l: 38)
+Color1: Color(h: 44, s: 100, l: 42)
+Target Index: 0
+Input: indigo
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 380.3624975836183
+---
+Color0: Color(h: 232, s: 100, l: 54)
+Color1: Color(h: 200, s: 100, l: 46)
+Target Index: 0
+Input: blau
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 6.787332102813704
+---
+Color0: Color(h: 123, s: 100, l: 31)
+Color1: Color(h: 147, s: 100, l: 50)
+Target Index: 0
+Input: grün
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 8.560025111325743
+---
+Color0: Color(h: 264, s: 100, l: 38)
+Color1: Color(h: 240, s: 100, l: 31)
+Target Index: 1
+Input: marinblau
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 5.113828705667835
+---
+Color0: Color(h: 192, s: 100, l: 45)
+Color1: Color(h: 216, s: 100, l: 49)
+Target Index: 0
+Input: marinblau
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 35.98395841787446
+---
+Color0: Color(h: 295, s: 100, l: 39)
+Color1: Color(h: 271, s: 100, l: 35)
+Target Index: 0
+Input: lila
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 5.397310067114127
+---
+Color0: Color(h: 94, s: 100, l: 59)
+Color1: Color(h: 75, s: 100, l: 47)
+Target Index: 0
+Input: blattgrün
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 69.64536367580767
+---
+Color0: Color(h: 163, s: 100, l: 32)
+Color1: Color(h: 171, s: 100, l: 44)
+Target Index: 1
+Input: türkis
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 6.155895787185219
+---
+Color0: Color(h: 21, s: 100, l: 32)
+Color1: Color(h: 13, s: 100, l: 53)
+Target Index: 0
+Input: braun
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 5.422866391275827
+---
+Color0: Color(h: 337, s: 100, l: 46)
+Color1: Color(h: 1, s: 100, l: 47)
+Target Index: 1
+Input: orange
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 13.663142624167383
+---
+Color0: Color(h: 340, s: 100, l: 53)
+Color1: Color(h: 323, s: 100, l: 30)
+Target Index: 1
+Input: lila
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 20.909145750260617
+---
+Color0: Color(h: 212, s: 100, l: 49)
+Color1: Color(h: 246, s: 100, l: 56)
+Target Index: 1
+Input: indigo
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 22.02420656554717
+---
+Color0: Color(h: 41, s: 100, l: 52)
+Color1: Color(h: 22, s: 100, l: 47)
+Target Index: 0
+Input: gelb
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 8.104851967592746
+---
+Color0: Color(h: 301, s: 100, l: 57)
+Color1: Color(h: 327, s: 100, l: 34)
+Target Index: 1
+Input: bordeaux
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 8.363143610544963
+---
+Color0: Color(h: 38, s: 100, l: 31)
+Color1: Color(h: 56, s: 100, l: 33)
+Target Index: 1
+Input: olive
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 5.190226500391288
+---
+Color0: Color(h: 27, s: 100, l: 32)
+Color1: Color(h: 37, s: 100, l: 58)
+Target Index: 1
+Input: gelb
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 9.35803494464
+---
+Color0: Color(h: 273, s: 100, l: 58)
+Color1: Color(h: 239, s: 100, l: 44)
+Target Index: 0
+Input: lila
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 6.257314356839786
+---
+Color0: Color(h: 20, s: 100, l: 48)
+Color1: Color(h: 28, s: 100, l: 42)
+Target Index: 0
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 4.10595664272162
+---
+Color0: Color(h: 180, s: 100, l: 49)
+Color1: Color(h: 191, s: 100, l: 37)
+Target Index: 1
+Input: blau
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 19.527831633802634
+---
+Color0: Color(h: 261, s: 100, l: 47)
+Color1: Color(h: 285, s: 100, l: 34)
+Target Index: 0
+Input: blau
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 12.168891618549276
+---
+Color0: Color(h: 177, s: 100, l: 56)
+Color1: Color(h: 166, s: 100, l: 43)
+Target Index: 1
+Input: grün
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 23.298904473391904
+---
+Color0: Color(h: 348, s: 100, l: 35)
+Color1: Color(h: 11, s: 100, l: 52)
+Target Index: 0
+Input: bordeaux
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 4.827595627005486
+---
+Color0: Color(h: 217, s: 100, l: 56)
+Color1: Color(h: 239, s: 100, l: 31)
+Target Index: 0
+Input: blau
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 7.103851687563854
+---
+Color0: Color(h: 35, s: 100, l: 39)
+Color1: Color(h: 24, s: 100, l: 38)
+Target Index: 1
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 4.282198284997739
+---
+Color0: Color(h: 348, s: 100, l: 40)
+Color1: Color(h: 315, s: 100, l: 41)
+Target Index: 0
+Input: rot
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 6.609589871451796
+---
+Color0: Color(h: 189, s: 100, l: 59)
+Color1: Color(h: 211, s: 100, l: 33)
+Target Index: 0
+Input: türkis
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 5.923096696496163
+---
+Color0: Color(h: 22, s: 100, l: 42)
+Color1: Color(h: 12, s: 100, l: 49)
+Target Index: 0
+Input: braun
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 6.763162288199175
+---
+Color0: Color(h: 263, s: 100, l: 46)
+Color1: Color(h: 239, s: 100, l: 33)
+Target Index: 0
+Input: blau
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 12.182428096716162
+---
+Color0: Color(h: 54, s: 100, l: 60)
+Color1: Color(h: 72, s: 100, l: 34)
+Target Index: 1
+Input: grün
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 21.112023040422915
+---
+Color0: Color(h: 303, s: 100, l: 30)
+Color1: Color(h: 314, s: 100, l: 45)
+Target Index: 0
+Input: lila
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 6.8856838559302975
+---
+Color0: Color(h: 336, s: 100, l: 43)
+Color1: Color(h: 312, s: 100, l: 43)
+Target Index: 1
+Input: pink
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 5.098360702882497
+---
+Color0: Color(h: 248, s: 100, l: 44)
+Color1: Color(h: 226, s: 100, l: 50)
+Target Index: 0
+Input: indigo
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 12.66697145601933
+---
+Color0: Color(h: 325, s: 100, l: 42)
+Color1: Color(h: 305, s: 100, l: 33)
+Target Index: 1
+Input: lila
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 6.26936292457746
+---
+Color0: Color(h: 66, s: 100, l: 56)
+Color1: Color(h: 82, s: 100, l: 57)
+Target Index: 0
+Input: gelb
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 4.465608084644695
+---
+Color0: Color(h: 40, s: 100, l: 56)
+Color1: Color(h: 16, s: 100, l: 40)
+Target Index: 0
+Input: gelb
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 6.766816635396773
+---
+Color0: Color(h: 13, s: 100, l: 55)
+Color1: Color(h: 350, s: 100, l: 49)
+Target Index: 0
+Input: orange
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 4.7988966084682145
+---
+Color0: Color(h: 78, s: 100, l: 37)
+Color1: Color(h: 56, s: 100, l: 32)
+Target Index: 0
+Input: grün
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 14.821094061139839
+---
+Color0: Color(h: 35, s: 100, l: 41)
+Color1: Color(h: 51, s: 100, l: 36)
+Target Index: 0
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 3.765922260833743
+---
+Color0: Color(h: 311, s: 100, l: 48)
+Color1: Color(h: 317, s: 100, l: 33)
+Target Index: 1
+Input: lila
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 10.498937312640052
+---
+Color0: Color(h: 212, s: 100, l: 37)
+Color1: Color(h: 248, s: 100, l: 38)
+Target Index: 1
+Input: marinblau
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 5.905263283869832
+---
+Color0: Color(h: 251, s: 100, l: 49)
+Color1: Color(h: 216, s: 100, l: 56)
+Target Index: 0
+Input: indigo
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 12.012250257252544
+---
+Color0: Color(h: 0, s: 100, l: 49)
+Color1: Color(h: 327, s: 100, l: 54)
+Target Index: 0
+Input: orange
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 10.712874275153517
+---
+Color0: Color(h: 352, s: 100, l: 45)
+Color1: Color(h: 328, s: 100, l: 55)
+Target Index: 0
+Input: rot
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 5.439909316493303
+---
+Color0: Color(h: 43, s: 100, l: 55)
+Color1: Color(h: 19, s: 100, l: 58)
+Target Index: 0
+Input: gelb
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 5.176423794859793
+---
+Color0: Color(h: 101, s: 100, l: 53)
+Color1: Color(h: 53, s: 100, l: 56)
+Target Index: 0
+Input: grün
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 7.050175571864111
+---
+Color0: Color(h: 167, s: 100, l: 33)
+Color1: Color(h: 143, s: 100, l: 52)
+Target Index: 1
+Input: blattgrün
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 10.674489165123042
+---
+Color0: Color(h: 223, s: 100, l: 60)
+Color1: Color(h: 262, s: 100, l: 51)
+Target Index: 1
+Input: marinblau
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 12.24178573315584
+---
+Color0: Color(h: 36, s: 100, l: 35)
+Color1: Color(h: 54, s: 100, l: 36)
+Target Index: 0
+Input: braun
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 4.1263464179641876
+---
+Color0: Color(h: 264, s: 100, l: 35)
+Color1: Color(h: 285, s: 100, l: 33)
+Target Index: 1
+Input: lila
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 4.176522682775741
+---
+Color0: Color(h: 335, s: 100, l: 52)
+Color1: Color(h: 359, s: 100, l: 37)
+Target Index: 0
+Input: pink
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 7.099693668999832
+---
+Color0: Color(h: 119, s: 100, l: 59)
+Color1: Color(h: 143, s: 100, l: 57)
+Target Index: 0
+Input: grün
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 6.7263712429598295
+---
+Color0: Color(h: 359, s: 100, l: 55)
+Color1: Color(h: 335, s: 100, l: 31)
+Target Index: 1
+Input: bordeaux
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 4.897802562122002
+---
+Color0: Color(h: 350, s: 100, l: 38)
+Color1: Color(h: 14, s: 100, l: 40)
+Target Index: 0
+Input: bordeaux
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 4.72072266078704
+---
+Color0: Color(h: 185, s: 100, l: 60)
+Color1: Color(h: 136, s: 100, l: 32)
+Target Index: 1
+Input: grün
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 9.03727456588038
+---
+Color0: Color(h: 49, s: 100, l: 33)
+Color1: Color(h: 65, s: 100, l: 42)
+Target Index: 0
+Input: olive
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 5.844117693540611
+---
+Color0: Color(h: 46, s: 100, l: 38)
+Color1: Color(h: 28, s: 100, l: 52)
+Target Index: 1
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 2.868970964161129
+---
+Color0: Color(h: 41, s: 100, l: 32)
+Color1: Color(h: 30, s: 100, l: 58)
+Target Index: 1
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 3.0802258149250834
+---
+Color0: Color(h: 250, s: 100, l: 30)
+Color1: Color(h: 284, s: 100, l: 58)
+Target Index: 1
+Input: pink
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 15.752401493967758
+---
+Color0: Color(h: 0, s: 100, l: 41)
+Color1: Color(h: 23, s: 100, l: 51)
+Target Index: 1
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 2.5087813025762737
+---
+Color0: Color(h: 273, s: 100, l: 55)
+Color1: Color(h: 249, s: 100, l: 52)
+Target Index: 0
+Input: lila
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 5.847279791867146
+---
+Color0: Color(h: 26, s: 100, l: 38)
+Color1: Color(h: 44, s: 100, l: 42)
+Target Index: 0
+Input: indigo
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 208.59605709450798
+---
+Color0: Color(h: 232, s: 100, l: 54)
+Color1: Color(h: 200, s: 100, l: 46)
+Target Index: 0
+Input: blau
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 5.383308062267774
+---
+Color0: Color(h: 123, s: 100, l: 31)
+Color1: Color(h: 147, s: 100, l: 50)
+Target Index: 0
+Input: grün
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 6.520374181693415
+---
+Color0: Color(h: 264, s: 100, l: 38)
+Color1: Color(h: 240, s: 100, l: 31)
+Target Index: 1
+Input: marinblau
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 4.268207977729935
+---
+Color0: Color(h: 192, s: 100, l: 45)
+Color1: Color(h: 216, s: 100, l: 49)
+Target Index: 0
+Input: marinblau
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 31.56115530954125
+---
+Color0: Color(h: 295, s: 100, l: 39)
+Color1: Color(h: 271, s: 100, l: 35)
+Target Index: 0
+Input: lila
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 3.4031829050339626
+---
+Color0: Color(h: 94, s: 100, l: 59)
+Color1: Color(h: 75, s: 100, l: 47)
+Target Index: 0
+Input: blattgrün
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 47.75996501354899
+---
+Color0: Color(h: 163, s: 100, l: 32)
+Color1: Color(h: 171, s: 100, l: 44)
+Target Index: 1
+Input: türkis
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 5.500118393680183
+---
+Color0: Color(h: 21, s: 100, l: 32)
+Color1: Color(h: 13, s: 100, l: 53)
+Target Index: 0
+Input: braun
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 4.344469280047845
+---
+Color0: Color(h: 337, s: 100, l: 46)
+Color1: Color(h: 1, s: 100, l: 47)
+Target Index: 1
+Input: orange
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 8.398433968359841
+---
+Color0: Color(h: 340, s: 100, l: 53)
+Color1: Color(h: 323, s: 100, l: 30)
+Target Index: 1
+Input: lila
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 14.655252664612853
+---
+Color0: Color(h: 212, s: 100, l: 49)
+Color1: Color(h: 246, s: 100, l: 56)
+Target Index: 1
+Input: indigo
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 17.633296478505404
+---
+Color0: Color(h: 41, s: 100, l: 52)
+Color1: Color(h: 22, s: 100, l: 47)
+Target Index: 0
+Input: gelb
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 5.186561383757295
+---
+Color0: Color(h: 301, s: 100, l: 57)
+Color1: Color(h: 327, s: 100, l: 34)
+Target Index: 1
+Input: bordeaux
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 6.521294784756943
+---
+Color0: Color(h: 38, s: 100, l: 31)
+Color1: Color(h: 56, s: 100, l: 33)
+Target Index: 1
+Input: olive
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 4.420323576361788
+---
+Color0: Color(h: 27, s: 100, l: 32)
+Color1: Color(h: 37, s: 100, l: 58)
+Target Index: 1
+Input: gelb
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 6.079849863869183
+---
+Color0: Color(h: 273, s: 100, l: 58)
+Color1: Color(h: 239, s: 100, l: 44)
+Target Index: 0
+Input: lila
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 6.464928492195455
+---
+Color0: Color(h: 20, s: 100, l: 48)
+Color1: Color(h: 28, s: 100, l: 42)
+Target Index: 0
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 2.3314619256001636
+---
+Color0: Color(h: 180, s: 100, l: 49)
+Color1: Color(h: 191, s: 100, l: 37)
+Target Index: 1
+Input: blau
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 18.966344629649626
+---
+Color0: Color(h: 261, s: 100, l: 47)
+Color1: Color(h: 285, s: 100, l: 34)
+Target Index: 0
+Input: blau
+Naive Prediction Correct: False
+Context Prediction Correct: True
+Border Change: 10.783088460236087
+---
+Color0: Color(h: 177, s: 100, l: 56)
+Color1: Color(h: 166, s: 100, l: 43)
+Target Index: 1
+Input: grün
+Naive Prediction Correct: False
+Context Prediction Correct: False
+Border Change: 23.792616403401052
+---
+Color0: Color(h: 348, s: 100, l: 35)
+Color1: Color(h: 11, s: 100, l: 52)
+Target Index: 0
+Input: bordeaux
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 3.6658582340358414
+---
+Color0: Color(h: 217, s: 100, l: 56)
+Color1: Color(h: 239, s: 100, l: 31)
+Target Index: 0
+Input: blau
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 6.05265801866821
+---
+Color0: Color(h: 35, s: 100, l: 39)
+Color1: Color(h: 24, s: 100, l: 38)
+Target Index: 1
+Input: orange
+Naive Prediction Correct: True
+Context Prediction Correct: False
+Border Change: 2.822636623745895
+---
+Color0: Color(h: 348, s: 100, l: 40)
+Color1: Color(h: 315, s: 100, l: 41)
+Target Index: 0
+Input: rot
+Naive Prediction Correct: True
+Context Prediction Correct: True
+Border Change: 5.718286177446847
+---

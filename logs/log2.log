@@ -1,0 +1,855 @@
+<< Learn mode set to: naive >>
+Color0: Color(h: 42, s: 100, l: 31)
+Color1: Color(h: 60, s: 100, l: 49)
+Target Index: 1
+Input: gelbbb
+Input: gelb
+---
+Color0: Color(h: 278, s: 100, l: 59)
+Color1: Color(h: 254, s: 100, l: 58)
+Target Index: 1
+Input: blau
+---
+Color0: Color(h: 41, s: 100, l: 58)
+Color1: Color(h: 17, s: 100, l: 33)
+Target Index: 1
+Input: braun
+             hc    hr     sc    sr    lc    lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                             
+rot         0.0  20.0  100.0  50.0  50.0  30.0  0.118031  0.593448  0.151536  0.761908               0
+braun      35.0  15.0  100.0  50.0  20.0  20.0  0.151829  0.394061  0.240241  0.623526               0
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+rot        358.402833  18.361830  100.0  50.0  50.576097  ...  0.065726  0.502284  0.100717  0.769686       11.377085
+braun       33.205034  16.630605  100.0  50.0  20.879153  ...  0.173882  0.522285  0.227003  0.681847       13.806293
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 267, s: 100, l: 51)
+Color1: Color(h: 291, s: 100, l: 49)
+Target Index: 0
+Input: 
+Input: blau
+              hc    hr     sc    sr    lc    lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                              
+blau       230.0  30.0  100.0  50.0  50.0  30.0  0.467147  0.126467  0.691013  0.187072               0
+lila       280.0  20.0  100.0  50.0  50.0  30.0  0.809122  0.859155  0.582240  0.618243               0
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+blau       232.000893  32.167044  100.0  50.0  50.063802  ...  0.552996  0.185876  0.689802  0.231860       17.407454
+lila       284.171808  15.314798  100.0  50.0  49.929413  ...  0.532994  0.904952  0.419363  0.712021       78.720168
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 221, s: 100, l: 40)
+Color1: Color(h: 259, s: 100, l: 36)
+Target Index: 1
+Input: indigo
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+blau       232.000893  32.167044  100.0  50.0  50.063802  ...  0.891599  0.629950  0.677667  0.478798               0
+indigo     280.000000  20.000000  100.0  50.0  20.000000  ...  0.020000  0.418428  0.037932  0.793596               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+blau       229.932279  30.172537  100.0  50.0  51.202735  ...  0.890159  0.550111  0.699683  0.432398       19.803798
+indigo     277.463980  22.112891  100.0  50.0  22.057589  ...  0.026960  0.570080  0.039697  0.839415       33.864542
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 32, s: 100, l: 40)
+Color1: Color(h: 10, s: 100, l: 41)
+Target Index: 1
+Input: rot
+---
+Color0: Color(h: 297, s: 100, l: 43)
+Color1: Color(h: 271, s: 100, l: 42)
+Target Index: 0
+Input: lila
+---
+Color0: Color(h: 311, s: 100, l: 43)
+Color1: Color(h: 335, s: 100, l: 58)
+Target Index: 1
+Input: pink
+---
+Color0: Color(h: 319, s: 100, l: 35)
+Color1: Color(h: 340, s: 100, l: 54)
+Target Index: 0
+Input: lila
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+lila       284.171808  15.314798  100.0  50.0  49.929413  ...  0.066555  0.020000  0.558219  0.167748               0
+pink       317.000000  17.000000  100.0  50.0  50.000000  ...  0.876411  0.396883  0.744735  0.337253               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0  acc1    score0    score1  change_borders
+colorname                                                 ...                                                    
+lila       286.034842  18.614536  100.0  50.0  49.615653  ...  0.185331  0.02  0.687417  0.074183       28.961380
+pink       310.300366   4.762498  100.0  50.0  50.300097  ...  0.165331  0.02  0.674059  0.081541      389.510758
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 59, s: 100, l: 33)
+Color1: Color(h: 41, s: 100, l: 46)
+Target Index: 0
+Input: blattgrün
+              hc    hr     sc    sr    lc    lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                              
+gelb        65.0  15.0  100.0  50.0  50.0  30.0  0.786191  0.275577  0.754176  0.264355               0
+blattgrün  150.0  20.0  100.0  50.0  20.0  20.0  0.020000  0.020000  0.356000  0.356000               0
+Optimization not successful. Model not changed.
+---
+Color0: Color(h: 42, s: 100, l: 30)
+Color1: Color(h: 24, s: 100, l: 36)
+Target Index: 1
+Input: bordeaux
+              hc    hr     sc    sr    lc    lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                              
+orange      35.0  15.0  100.0  50.0  50.0  30.0  0.718125  0.685383  0.573603  0.547450               0
+bordeaux   350.0  20.0  100.0  50.0  20.0  20.0  0.030047  0.171187  0.113533  0.646837               0
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+orange      38.673973   9.046967  100.0  50.0  50.326278  ...  0.741201  0.239164  0.751592  0.242517       98.133604
+bordeaux   351.467248  22.159323  100.0  50.0  20.796857  ...  0.067201  0.259164  0.164296  0.633614       15.597644
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 314, s: 100, l: 35)
+Color1: Color(h: 308, s: 100, l: 58)
+Target Index: 1
+Indistinguishable!
+---
+Color0: Color(h: 2, s: 100, l: 42)
+Color1: Color(h: 340, s: 100, l: 44)
+Target Index: 0
+Input: braun
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+rot        358.402833  18.361830  100.0  50.0  50.576097  ...  0.940805  0.590474  0.712316  0.447068               0
+braun       33.205034  16.630605  100.0  50.0  20.879153  ...  0.101151  0.020000  0.614787  0.121558               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+rot        351.426496   5.886623  100.0  50.0  50.810112  ...  0.190617  0.148019  0.451213  0.350378      408.717924
+braun       31.295521  19.541601  100.0  50.0  21.956653  ...  0.210608  0.020000  0.702473  0.066709       28.613398
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 254, s: 100, l: 55)
+Color1: Color(h: 280, s: 100, l: 55)
+Target Index: 1
+Input: lila
+---
+Color0: Color(h: 60, s: 100, l: 34)
+Color1: Color(h: 78, s: 100, l: 59)
+Target Index: 0
+Input: olive
+             hc    hr     sc    sr    lc    lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                             
+gelb       65.0  15.0  100.0  50.0  50.0  30.0  0.820552  0.656682  0.634991  0.508179               0
+olive      65.0  15.0  100.0  50.0  20.0  20.0  0.740407  0.102611  0.836919  0.115987               0
+                  hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                ...                                                        
+gelb       66.205264  14.488860  100.0  50.0  50.792180  ...  0.776329  0.690790  0.603305  0.536830        5.088950
+olive      64.235810  15.209036  100.0  50.0  21.240741  ...  0.796323  0.126887  0.842688  0.134275        5.473353
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 298, s: 100, l: 53)
+Color1: Color(h: 276, s: 100, l: 32)
+Target Index: 1
+Input: blau
+                   hc         hr     sc    sr         lc  ...      acc0      acc1   score0    score1  change_borders
+colorname                                                 ...                                                       
+blau       229.932279  30.172537  100.0  50.0  51.202735  ...  0.078354  0.251907  0.18958  0.609498               0
+indigo     277.463980  22.112891  100.0  50.0  22.057589  ...  0.227143  0.895209  0.20981  0.826896               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+blau       232.081275  33.042068  100.0  50.0  50.135856  ...  0.136076  0.344617  0.238981  0.605227       28.826255
+indigo     277.622766  22.095458  100.0  50.0  15.263114  ...  0.020000  0.324616  0.046625  0.756760      299.318097
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 4, s: 100, l: 55)
+Color1: Color(h: 357, s: 100, l: 36)
+Target Index: 1
+Input: bordeaux
+---
+Color0: Color(h: 228, s: 100, l: 45)
+Color1: Color(h: 258, s: 100, l: 31)
+Target Index: 0
+Input: türkis
+                   hc         hr     sc    sr         lc  ...      acc0     acc1    score0    score1  change_borders
+colorname                                                 ...                                                       
+türkis     180.000000  20.000000  100.0  50.0  50.000000  ...  0.055361  0.02000  0.530834  0.191774               0
+blau       232.081275  33.042068  100.0  50.0  50.135856  ...  0.978024  0.60035  0.727155  0.446357               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+türkis     184.849554  27.477522  100.0  50.0  49.570442  ...  0.288057  0.023897  0.732795  0.060791      159.250147
+blau       232.331781  32.978100  100.0  50.0  62.165230  ...  0.268049  0.020000  0.731812  0.054603     1046.118327
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 307, s: 100, l: 54)
+Color1: Color(h: 318, s: 100, l: 44)
+Target Index: 0
+Indistinguishable!
+---
+Color0: Color(h: 56, s: 100, l: 45)
+Color1: Color(h: 74, s: 100, l: 30)
+Target Index: 1
+Input: grün
+                  hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                ...                                                        
+olive       64.23581  15.209036  100.0  50.0  21.240741  ...  0.448494  0.744428  0.397722  0.660154               0
+grün       120.00000  40.000000  100.0  50.0  50.000000  ...  0.274202  0.413345  0.361429  0.544835               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+olive       61.177513  11.889600  100.0  50.0   0.000000  ...  0.499638  0.428362  0.526774  0.451626       41.761166
+grün       119.036801  41.041473  100.0  50.0  49.278803  ...  0.304406  0.448363  0.374388  0.551442        5.521234
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 56, s: 100, l: 39)
+Color1: Color(h: 46, s: 100, l: 37)
+Target Index: 1
+Input: braun
+                  hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                ...                                                        
+orange     38.673973   9.046967  100.0  50.0  50.326278  ...  0.148697  0.652105  0.174588  0.765652               0
+braun      31.295521  19.541601  100.0  50.0  21.956653  ...  0.328591  0.590012  0.348972  0.626609               0
+
+[2 rows x 11 columns]
+                  hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                ...                                                        
+orange     38.060269   8.472327  100.0  50.0  50.411025  ...  0.098759  0.582558  0.131095  0.773301        1.431005
+braun      31.509623  19.696475  100.0  50.0  22.139920  ...  0.340747  0.602622  0.355065  0.627945        0.237765
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 355, s: 100, l: 49)
+Color1: Color(h: 348, s: 100, l: 40)
+Target Index: 0
+Input: orange
+                   hc        hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                ...                                                        
+rot        351.426496  5.886623  100.0  50.0  50.810112  ...  0.830166  0.789655  0.607803  0.578143               0
+orange      38.060269  8.472327  100.0  50.0  50.411025  ...  0.020000  0.020000  0.356000  0.356000               0
+
+[2 rows x 11 columns]
+Optimization not successful. Model not changed.
+---
+Color0: Color(h: 286, s: 100, l: 41)
+Color1: Color(h: 260, s: 100, l: 49)
+Target Index: 0
+Input: lila
+---
+Color0: Color(h: 120, s: 100, l: 43)
+Color1: Color(h: 144, s: 100, l: 58)
+Target Index: 1
+Input: blattgrün
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+grün       119.036801  41.041473  100.0  50.0  49.278803  ...  0.978733  0.797781  0.679270  0.553684               0
+blattgrün  150.000000  20.000000  100.0  50.0  20.000000  ...  0.167587  0.157237  0.411429  0.386019               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+grün       109.418554  30.657803  100.0  50.0  46.050371  ...  0.937137  0.487496  0.741607  0.385782      423.605767
+blattgrün  148.646726  20.293748  100.0  50.0   0.019991  ...  0.259331  0.512109  0.313115  0.618317      128.107642
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 69, s: 100, l: 48)
+Color1: Color(h: 54, s: 100, l: 58)
+Target Index: 0
+Input: grün
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+gelb        66.205264  14.488860  100.0  50.0  50.792180  ...  0.977197  0.680750  0.705740  0.491644               0
+grün       109.418554  30.657803  100.0  50.0  46.050371  ...  0.418428  0.179766  0.615168  0.264290               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+gelb        60.232564   7.052539  100.0  50.0  50.904478  ...  0.459527  0.657480  0.425832  0.609270      181.969429
+grün       108.075204  32.274096  100.0  50.0  46.125765  ...  0.479526  0.226528  0.619272  0.292544        8.845398
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 305, s: 100, l: 51)
+Color1: Color(h: 321, s: 100, l: 57)
+Target Index: 1
+Input: pink
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+lila       286.034842  18.614536  100.0  50.0  49.615653  ...  0.594480  0.166269  0.725353  0.202872               0
+pink       310.300366   4.762498  100.0  50.0  50.300097  ...  0.538165  0.078168  0.772670  0.112229               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+lila       285.920103  18.387343  100.0  50.0  49.607209  ...  0.583074  0.157242  0.726244  0.195851        0.129715
+pink       310.728301   5.562624  100.0  50.0  50.309694  ...  0.588314  0.177283  0.714401  0.215279        1.646852
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 330, s: 100, l: 43)
+Color1: Color(h: 304, s: 100, l: 44)
+Target Index: 0
+Input: bordeaux
+---
+Color0: Color(h: 214, s: 100, l: 34)
+Color1: Color(h: 181, s: 100, l: 42)
+Target Index: 0
+Input: indigo
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+türkis     184.849554  27.477522  100.0  50.0  49.570442  ...  0.498289  0.959395  0.388772  0.748533               0
+indigo     277.622766  22.095458  100.0  50.0  15.263114  ...  0.020000  0.020000  0.356000  0.356000               0
+
+[2 rows x 11 columns]
+Optimization not successful. Model not changed.
+---
+Color0: Color(h: 358, s: 100, l: 34)
+Color1: Color(h: 332, s: 100, l: 52)
+Target Index: 0
+Input: braun
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+braun       31.509623  19.696475  100.0  50.0  22.139920  ...  0.202413  0.020000  0.697778  0.068946               0
+bordeaux   351.467248  22.159323  100.0  50.0  20.796857  ...  0.779544  0.215636  0.782187  0.216367               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0     acc1    score0    score1  change_borders
+colorname                                                 ...                                                       
+braun       28.547515  23.505953  100.0  50.0  23.319565  ...  0.382813  0.02403  0.773499  0.048554       49.980953
+bordeaux   350.696030  21.954215  100.0  50.0  15.560430  ...  0.362816  0.02000  0.772274  0.042571      161.886914
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 39, s: 100, l: 56)
+Color1: Color(h: 11, s: 100, l: 43)
+Target Index: 0
+Input: gelb
+                  hc        hr     sc    sr         lc  ...     acc0  acc1    score0    score1  change_borders
+colorname                                               ...                                                   
+orange     38.060269  8.472327  100.0  50.0  50.411025  ...  0.97655  0.02  0.978916  0.020048               0
+gelb       60.232564  7.052539  100.0  50.0  50.904478  ...  0.02000  0.02  0.356000  0.356000               0
+
+[2 rows x 11 columns]
+                  hc   hr     sc         sr   lc   lr     acc0      acc1    score0    score1  change_borders
+colorname                                                                                                   
+orange      38.09348    1  100.0  47.082706    0    1  0.02000  0.020000  0.356000  0.356000     6820.294089
+gelb       184.38458  180  100.0   1.000000  100  100  0.65509  0.534527  0.581998  0.474887     9577.373297
+---
+Color0: Color(h: 189, s: 100, l: 49)
+Color1: Color(h: 45, s: 100, l: 59)
+Target Index: 0
+Input: türkis
+---
+Color0: Color(h: 275, s: 100, l: 39)
+Color1: Color(h: 297, s: 100, l: 52)
+Target Index: 0
+Input: marinblau
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+marinblau  240.000000  25.000000  100.0  50.0  20.000000  ...  0.239010  0.020667  0.715991  0.061912               0
+lila       285.920103  18.387343  100.0  50.0  49.607209  ...  0.788004  0.831351  0.577032  0.608774               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+marinblau  241.806679  27.215792  100.0  50.0  21.542358  ...  0.339229  0.045815  0.718478  0.097036       24.251554
+lila       291.027535  10.937928  100.0  50.0  50.073392  ...  0.319243  0.859726  0.285320  0.768371      163.651558
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 235, s: 100, l: 55)
+Color1: Color(h: 267, s: 100, l: 47)
+Target Index: 1
+Input: indigo
+                   hc          hr     sc    sr          lc  ...      acc0      acc1   score0    score1  change_borders
+colorname                                                   ...                                                       
+gelb       184.384580  180.000000  100.0   1.0  100.000000  ...  0.868675  0.782095  0.62896  0.566272               0
+indigo     277.622766   22.095458  100.0  50.0   15.263114  ...  0.020000  0.020000  0.35600  0.356000               0
+
+[2 rows x 11 columns]
+Optimization not successful. Model not changed.
+---
+Color0: Color(h: 211, s: 100, l: 49)
+Color1: Color(h: 244, s: 100, l: 48)
+Target Index: 0
+Indistinguishable!
+---
+Color0: Color(h: 130, s: 100, l: 35)
+Color1: Color(h: 168, s: 100, l: 39)
+Target Index: 1
+Input: blattgrün
+                   hc          hr     sc    sr  ...      acc1    score0    score1  change_borders
+colorname                                       ...                                              
+gelb       184.384580  180.000000  100.0   1.0  ...  0.826800  0.570367  0.609708               0
+blattgrün  148.646726   20.293748  100.0  50.0  ...  0.474563  0.521246  0.476772               0
+
+[2 rows x 11 columns]
+                   hc          hr     sc    sr  ...      acc1    score0    score1  change_borders
+colorname                                       ...                                              
+gelb       184.573422  180.000000  100.0   1.0  ...  0.826720  0.570255  0.609723        0.071323
+blattgrün  156.493062   24.055508  100.0  50.0  ...  0.846719  0.432761  0.682355      200.054284
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 297, s: 100, l: 45)
+Color1: Color(h: 257, s: 100, l: 48)
+Target Index: 0
+Input: lila
+---
+Color0: Color(h: 294, s: 100, l: 42)
+Color1: Color(h: 281, s: 100, l: 34)
+Target Index: 0
+Input: lila
+---
+Color0: Color(h: 79, s: 100, l: 37)
+Color1: Color(h: 51, s: 100, l: 48)
+Target Index: 1
+Input: gelb
+---
+Color0: Color(h: 285, s: 100, l: 51)
+Color1: Color(h: 298, s: 100, l: 32)
+Target Index: 0
+Indistinguishable!
+---
+Color0: Color(h: 37, s: 100, l: 43)
+Color1: Color(h: 38, s: 100, l: 60)
+Target Index: 0
+Input: braun
+---
+Color0: Color(h: 99, s: 100, l: 42)
+Color1: Color(h: 60, s: 100, l: 50)
+Target Index: 0
+Input: grün
+---
+Color0: Color(h: 122, s: 100, l: 46)
+Color1: Color(h: 161, s: 100, l: 55)
+Target Index: 0
+Input: blattgrün
+                   hc         hr     sc    sr         lc  ...      acc0      acc1    score0    score1  change_borders
+colorname                                                 ...                                                        
+grün       108.075204  32.274096  100.0  50.0  46.125765  ...  0.911116  0.249091  0.823048  0.225014               0
+blattgrün  156.493062  24.055508  100.0  50.0  30.260267  ...  0.302217  0.647881  0.313328  0.671701               0
+
+[2 rows x 11 columns]
+                   hc         hr     sc    sr         lc  ...      acc0     acc1    score0    score1  change_borders
+colorname                                                 ...                                                       
+grün        98.503863  22.116958  100.0  50.0  46.163342  ...  0.568748  0.02000  0.846845  0.029779      389.558843
+blattgrün  150.092127  30.042864  100.0  50.0  33.433064  ...  0.586041  0.70317  0.494014  0.592749      177.679433
+
+[2 rows x 11 columns]
+---
+Color0: Color(h: 51, s: 100, l: 56)
+Color1: Color(h: 196, s: 100, l: 32)
+Target Index: 1
+Input: türkis
+                   hc          hr     sc    sr          lc          lr     acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                    
+gelb       184.573422  180.000000  100.0   1.0  100.000000  100.000000  0.68926  0.791983  0.532505  0.611867               0
+türkis     184.849554   27.477522  100.0  50.0   49.570442   30.095096  0.02000  0.776649  0.023574  0.915421               0
+                   hc          hr     sc    sr         lc          lr     acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                   
+gelb       184.548671  180.000000  100.0   1.0  100.00000  100.000000  0.68933  0.791976  0.532546  0.611846        0.001225
+türkis     185.799376   27.828077  100.0  50.0   48.33584   30.751051  0.02000  0.811976  0.022827  0.926765        5.959139
+---
+Color0: Color(h: 339, s: 100, l: 35)
+Color1: Color(h: 346, s: 100, l: 35)
+Target Index: 0
+Indistinguishable!
+---
+Color0: Color(h: 203, s: 100, l: 39)
+Color1: Color(h: 63, s: 100, l: 60)
+Target Index: 1
+Input: gelb
+---
+Color0: Color(h: 321, s: 100, l: 60)
+Color1: Color(h: 314, s: 100, l: 50)
+Target Index: 0
+Indistinguishable!
+---
+Color0: Color(h: 265, s: 100, l: 57)
+Color1: Color(h: 232, s: 100, l: 36)
+Target Index: 1
+Input: marinblau
+                   hc          hr     sc    sr          lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                     
+gelb       184.548671  180.000000  100.0   1.0  100.000000  100.000000  0.825032  0.786984  0.605771  0.577834               0
+marinblau  241.806679   27.215792  100.0  50.0   21.542358   21.254226  0.172964  0.743585  0.183987  0.790977               0
+                   hc          hr     sc    sr          lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                     
+gelb       184.447381  180.000000  100.0   1.0  100.000000  100.000000  0.824825  0.786867  0.605690  0.577817        0.020519
+marinblau  240.967087   27.489599  100.0  50.0   23.343789   22.276127  0.217944  0.806863  0.214251  0.793191       10.138635
+---
+Color0: Color(h: 55, s: 100, l: 46)
+Color1: Color(h: 41, s: 100, l: 45)
+Target Index: 0
+Input: gelb
+---
+Color0: Color(h: 69, s: 100, l: 30)
+Color1: Color(h: 83, s: 100, l: 53)
+Target Index: 0
+Input: olive
+                   hc        hr     sc    sr     lc         lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                             
+gelb       184.447381  180.0000  100.0   1.0  100.0  100.00000  0.637194  0.763937  0.509498  0.610841               0
+olive       61.177513   11.8896  100.0  50.0    0.0   41.11155  0.617127  0.080832  0.804070  0.105318               0
+                   hc         hr     sc    sr          lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                    
+gelb       184.430638  180.00000  100.0   1.0  100.000000  100.000000  0.637232  0.763977  0.509511  0.610852        0.000561
+olive       61.203173   11.89547  100.0  50.0   10.996616   30.130649  0.661203  0.070619  0.830812  0.088734        0.001633
+---
+Color0: Color(h: 0, s: 100, l: 41)
+Color1: Color(h: 353, s: 100, l: 50)
+Target Index: 1
+Input: rot
+---
+Color0: Color(h: 288, s: 100, l: 53)
+Color1: Color(h: 274, s: 100, l: 52)
+Target Index: 0
+Input: pink
+                   hc         hr     sc    sr         lc         lr      acc0     acc1    score0    score1  change_borders
+colorname                                                                                                                 
+lila       291.027535  10.937928  100.0  50.0  50.073392  29.977430  0.957842  0.29707  0.821645  0.254829               0
+pink       310.728301   5.562624  100.0  50.0  50.309694  29.847976  0.020000  0.02000  0.356000  0.356000               0
+Optimization not successful. Model not changed.
+---
+Color0: Color(h: 355, s: 100, l: 30)
+Color1: Color(h: 22, s: 100, l: 41)
+Target Index: 0
+Input: bordeaux
+                   hc         hr     sc    sr         lc         lr      acc0     acc1    score0    score1  change_borders
+colorname                                                                                                                 
+rot        351.426496   5.886623  100.0  50.0  50.810112  29.586282  0.649454  0.02000  0.873924  0.026913               0
+bordeaux   350.696030  21.954215  100.0  50.0  15.560430  13.317904  0.544991  0.05837  0.795778  0.085230               0
+                   hc         hr     sc    sr         lc         lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                  
+rot        350.694562   5.290824  100.0  50.0  50.923160  29.505819  0.558487  0.020000  0.843345  0.030201        1.819916
+bordeaux   350.739669  21.962652  100.0  50.0  15.926515  13.689251  0.578523  0.067856  0.800072  0.093842        0.547783
+---
+Color0: Color(h: 263, s: 100, l: 47)
+Color1: Color(h: 230, s: 100, l: 35)
+Target Index: 1
+Input: marinblau
+---
+Color0: Color(h: 199, s: 100, l: 56)
+Color1: Color(h: 165, s: 100, l: 32)
+Target Index: 0
+Input: türkis
+                   hc          hr     sc    sr         lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                    
+gelb       184.430638  180.000000  100.0   1.0  100.00000  100.000000  0.904769  0.788970  0.645360  0.562762               0
+türkis     185.799376   27.828077  100.0  50.0   48.33584   30.751051  0.866261  0.656769  0.658021  0.498888               0
+                   hc          hr     sc    sr          lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                     
+gelb       184.311566  180.000000  100.0   1.0  100.000000  100.000000  0.904720  0.789027  0.645323  0.562801        0.028356
+türkis     189.005796   28.935404  100.0  50.0   50.004275   31.073386  0.924719  0.599293  0.702152  0.455051       28.789750
+---
+Color0: Color(h: 16, s: 100, l: 43)
+Color1: Color(h: 44, s: 100, l: 40)
+Target Index: 0
+Input: rot
+                   hc         hr     sc    sr         lc         lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                  
+rot        350.694562   5.290824  100.0  50.0  50.923160  29.505819  0.020000  0.020000  0.356000  0.356000               0
+braun       28.547515  23.505953  100.0  50.0  23.319565  22.195748  0.585336  0.607462  0.519108  0.538731               0
+Optimization not successful. Model not changed.
+---
+Color0: Color(h: 57, s: 100, l: 51)
+Color1: Color(h: 84, s: 100, l: 53)
+Target Index: 0
+Input: gelb
+---
+Color0: Color(h: 334, s: 100, l: 38)
+Color1: Color(h: 108, s: 100, l: 53)
+Target Index: 0
+Input: pink
+                   hc          hr     sc    sr          lc          lr      acc0     acc1    score0    score1  change_borders
+colorname                                                                                                                    
+gelb       184.311566  180.000000  100.0   1.0  100.000000  100.000000  0.583926  0.81847  0.466642  0.654077               0
+pink       310.728301    5.562624  100.0  50.0   50.309694   29.847976  0.020000  0.02000  0.356000  0.356000               0
+Optimization not successful. Model not changed.
+---
+Color0: Color(h: 311, s: 100, l: 53)
+Color1: Color(h: 337, s: 100, l: 54)
+Target Index: 0
+Input: pink
+---
+Color0: Color(h: 294, s: 100, l: 41)
+Color1: Color(h: 307, s: 100, l: 45)
+Target Index: 0
+Input: lila
+---
+Color0: Color(h: 38, s: 100, l: 52)
+Color1: Color(h: 39, s: 100, l: 42)
+Target Index: 1
+Input: braun
+---
+Color0: Color(h: 63, s: 100, l: 55)
+Color1: Color(h: 78, s: 100, l: 55)
+Target Index: 0
+Input: gelb
+---
+Color0: Color(h: 14, s: 100, l: 49)
+Color1: Color(h: 42, s: 100, l: 53)
+Target Index: 0
+Input: rot
+                   hc          hr     sc    sr         lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                    
+rot        350.694562    5.290824  100.0  50.0   50.92316   29.505819  0.020000  0.020000  0.356000  0.356000               0
+gelb       184.311566  180.000000  100.0   1.0  100.00000  100.000000  0.561202  0.655085  0.491345  0.573541               0
+Optimization not successful. Model not changed.
+---
+Color0: Color(h: 228, s: 100, l: 53)
+Color1: Color(h: 268, s: 100, l: 45)
+Target Index: 1
+Input: indigo
+                   hc          hr     sc    sr          lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                     
+gelb       184.311566  180.000000  100.0   1.0  100.000000  100.000000  0.869441  0.771566  0.631707  0.560595               0
+indigo     277.622766   22.095458  100.0  50.0   15.263114   11.170765  0.020000  0.026304  0.308349  0.405542               0
+                   hc          hr     sc    sr         lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                    
+gelb       182.997934  180.000000  100.0   1.0  100.00000  100.000000  0.867879  0.768932  0.631522  0.559522        3.451256
+indigo     272.898410   23.095747  100.0  50.0   30.95314   21.442114  0.089082  0.788933  0.097746  0.865659      749.995296
+---
+Color0: Color(h: 5, s: 100, l: 41)
+Color1: Color(h: 339, s: 100, l: 30)
+Target Index: 1
+Input: bordeaux
+                   hc          hr     sc    sr          lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                     
+gelb       182.997934  180.000000  100.0   1.0  100.000000  100.000000  0.515309  0.537640  0.497170  0.518715               0
+bordeaux   350.739669   21.962652  100.0  50.0   15.926515   13.689251  0.151343  0.511032  0.205342  0.693370               0
+                   hc          hr     sc    sr          lc         lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                    
+gelb       182.957333  180.000000  100.0   1.0  100.000000  100.00000  0.515424  0.537535  0.497277  0.518610        0.003297
+bordeaux   350.533400   22.070209  100.0  50.0   16.508815   14.24131  0.183864  0.556962  0.228890  0.693357        1.395917
+---
+Color0: Color(h: 269, s: 100, l: 55)
+Color1: Color(h: 282, s: 100, l: 41)
+Target Index: 0
+Indistinguishable!
+---
+Color0: Color(h: 34, s: 100, l: 30)
+Color1: Color(h: 6, s: 100, l: 36)
+Target Index: 1
+Input: rot
+                   hc         hr     sc    sr         lc         lr      acc0    acc1   score0    score1  change_borders
+colorname                                                                                                               
+rot        350.694562   5.290824  100.0  50.0  50.923160  29.505819  0.020000  0.0200  0.35600  0.356000               0
+braun       28.547515  23.505953  100.0  50.0  23.319565  22.195748  0.930348  0.5362  0.72317  0.416794               0
+Optimization not successful. Model not changed.
+---
+Color0: Color(h: 74, s: 100, l: 36)
+Color1: Color(h: 45, s: 100, l: 56)
+Target Index: 0
+Input: olive
+                   hc         hr     sc    sr          lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                    
+gelb       182.957333  180.00000  100.0   1.0  100.000000  100.000000  0.678409  0.676714  0.553960  0.552576               0
+olive       61.203173   11.89547  100.0  50.0   10.996616   30.130649  0.397343  0.129622  0.647018  0.211072               0
+                   hc          hr     sc    sr         lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                    
+gelb       183.264813  180.000000  100.0   1.0  100.00000  100.000000  0.677707  0.675827  0.553798  0.552262        0.189087
+olive       65.209921   14.349808  100.0  50.0   23.06492   22.032146  0.697707  0.121351  0.805601  0.140116       60.981547
+---
+Color0: Color(h: 42, s: 100, l: 59)
+Color1: Color(h: 71, s: 100, l: 46)
+Target Index: 1
+Input: olive
+                   hc          hr     sc    sr         lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                    
+gelb       183.264813  180.000000  100.0   1.0  100.00000  100.000000  0.675698  0.711559  0.543662  0.572515               0
+olive       65.209921   14.349808  100.0  50.0   23.06492   22.032146  0.071491  0.536212  0.103797  0.778514               0
+                   hc          hr     sc    sr          lc         lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                    
+gelb       183.702466  180.000000  100.0   1.0  100.000000  100.00000  0.674408  0.710479  0.543206  0.572260        0.383081
+olive       67.385775   14.886892  100.0  50.0   27.090944   25.06391  0.103900  0.730478  0.118336  0.831977       60.846521
+---
+Color0: Color(h: 127, s: 100, l: 56)
+Color1: Color(h: 163, s: 100, l: 52)
+Target Index: 0
+Input: grün
+                   hc          hr     sc    sr          lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                     
+gelb       183.702466  180.000000  100.0   1.0  100.000000  100.000000  0.863798  0.885313  0.604834  0.619899               0
+grün        98.503863   22.116958  100.0  50.0   46.163342   29.457448  0.412393  0.020000  0.791340  0.038378               0
+                   hc          hr     sc    sr          lc          lr      acc0      acc1    score0    score1  change_borders
+colorname                                                                                                                     
+gelb       185.282804  180.000000  100.0   1.0  100.000000  100.000000  0.861379  0.884385  0.603801  0.619928        4.994934
+grün       113.182525   29.089379  100.0  50.0   51.036572   30.256816  0.881379  0.230628  0.819235  0.214367      576.930265
+---
+Color0: Color(h: 229, s: 100, l: 33)
+Color1: Color(h: 196, s: 100, l: 58)
+Target Index: 0
+<< Learn mode set to: naive >>
+==============
+= Validation =
+==============
+Color0: Color(h: 340, s: 100, l: 44)
+Color1: Color(h: 2, s: 100, l: 42)
+Target Index: 1
+Input: braun
+Validation: True
+---
+Color0: Color(h: 37, s: 100, l: 43)
+Color1: Color(h: 38, s: 100, l: 60)
+Target Index: 0
+Input: braun
+Validation: True
+---
+Color0: Color(h: 51, s: 100, l: 48)
+Color1: Color(h: 79, s: 100, l: 37)
+Target Index: 0
+Input: gelb
+Validation: True
+---
+Color0: Color(h: 189, s: 100, l: 49)
+Color1: Color(h: 45, s: 100, l: 59)
+Target Index: 0
+Input: türkis
+Validation: True
+---
+Color0: Color(h: 17, s: 100, l: 33)
+Color1: Color(h: 41, s: 100, l: 58)
+Target Index: 0
+Input: braun
+Validation: True
+---
+Color0: Color(h: 161, s: 100, l: 55)
+Color1: Color(h: 122, s: 100, l: 46)
+Target Index: 1
+Input: blattgrün
+Validation: True
+---
+Color0: Color(h: 348, s: 100, l: 40)
+Color1: Color(h: 355, s: 100, l: 49)
+Target Index: 1
+Input: orange
+Validation: True
+---
+Color0: Color(h: 144, s: 100, l: 58)
+Color1: Color(h: 120, s: 100, l: 43)
+Target Index: 0
+Input: blattgrün
+Validation: True
+---
+Color0: Color(h: 78, s: 100, l: 59)
+Color1: Color(h: 60, s: 100, l: 34)
+Target Index: 1
+Input: olive
+Validation: True
+---
+Color0: Color(h: 214, s: 100, l: 34)
+Color1: Color(h: 181, s: 100, l: 42)
+Target Index: 0
+Input: indigo
+Validation: True
+---
+Color0: Color(h: 46, s: 100, l: 37)
+Color1: Color(h: 56, s: 100, l: 39)
+Target Index: 0
+Input: braun
+Validation: True
+---
+Color0: Color(h: 56, s: 100, l: 45)
+Color1: Color(h: 74, s: 100, l: 30)
+Target Index: 1
+Input: grün
+Validation: True
+---
+Color0: Color(h: 335, s: 100, l: 58)
+Color1: Color(h: 311, s: 100, l: 43)
+Target Index: 0
+Input: pink
+Validation: True
+---
+Color0: Color(h: 278, s: 100, l: 59)
+Color1: Color(h: 254, s: 100, l: 58)
+Target Index: 1
+Input: blau
+Validation: True
+---
+Color0: Color(h: 271, s: 100, l: 42)
+Color1: Color(h: 297, s: 100, l: 43)
+Target Index: 1
+Input: lila
+Validation: True
+---
+Color0: Color(h: 99, s: 100, l: 42)
+Color1: Color(h: 60, s: 100, l: 50)
+Target Index: 0
+Input: grün
+Validation: True
+---
+Color0: Color(h: 294, s: 100, l: 42)
+Color1: Color(h: 281, s: 100, l: 34)
+Target Index: 0
+Input: lila
+Validation: True
+---
+Color0: Color(h: 257, s: 100, l: 48)
+Color1: Color(h: 297, s: 100, l: 45)
+Target Index: 1
+Input: lila
+Validation: True
+---
+Color0: Color(h: 297, s: 100, l: 52)
+Color1: Color(h: 275, s: 100, l: 39)
+Target Index: 1
+Input: marinblau
+Validation: True
+---
+Color0: Color(h: 319, s: 100, l: 35)
+Color1: Color(h: 340, s: 100, l: 54)
+Target Index: 0
+Input: lila
+Validation: True
+---
+Color0: Color(h: 330, s: 100, l: 43)
+Color1: Color(h: 304, s: 100, l: 44)
+Target Index: 0
+Input: bordeaux
+Validation: True
+---
+Color0: Color(h: 10, s: 100, l: 41)
+Color1: Color(h: 32, s: 100, l: 40)
+Target Index: 0
+Input: rot
+Validation: True
+---
+Color0: Color(h: 4, s: 100, l: 55)
+Color1: Color(h: 357, s: 100, l: 36)
+Target Index: 1
+Input: bordeaux
+Validation: False
+---
+Color0: Color(h: 267, s: 100, l: 51)
+Color1: Color(h: 291, s: 100, l: 49)
+Target Index: 0
+Input: blau
+Validation: True
+---
+Color0: Color(h: 60, s: 100, l: 49)
+Color1: Color(h: 42, s: 100, l: 31)
+Target Index: 0
+Input: gelb
+Validation: True
+---
+Validation Rate: 0.96
